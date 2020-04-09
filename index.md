@@ -1,5 +1,5 @@
 ---
-layout:page
+layout: page
 ---
 
 # Welcome to Tompkins Square Legacy Food Distribution!
