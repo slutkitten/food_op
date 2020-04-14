@@ -1,0 +1,29 @@
+- name: About
+  link: /about/
+  dropdown: 
+    - name: What We Do
+      link: /what-we-do/ 
+    - name: How You Can Help
+      link: /how-you-can-help/ 
+    - name: Our Goals
+      link: /our-goals/ 
+    - name: Methodology
+      link: /methodology/
+- name: Donate
+  link: /donate/
+  dropdown: 
+    - name: Where The Money Goes
+      link: /where-the-money-goes/ 
+    - name: Supplies & Equipment
+      link: /supplies-and-equipment/ 
+    - name: Cooking Space
+      link: /cooking-space/ 
+    - name: Food
+      link: /food/
+- name: Contact
+  link: /contact/
+  dropdown:
+    - name: Contact Us
+      link: /contact-us/
+    - name: Resources
+      link: /resources/
